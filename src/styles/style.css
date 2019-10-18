@@ -1,0 +1,44 @@
+.steps-content {
+    margin-top: 16px;
+    border: 1px dashed #e9e9e9;
+    border-radius: 6px;
+    background-color: #fafafa;
+    min-height: 200px;
+    text-align: center;
+    padding: 80px 0;
+}
+
+.step-box {
+    margin: 5%
+}
+
+.steps-action {
+    margin-top: 24px;
+    text-align: right
+}
+
+.step-box .btn-prev {
+    float: left
+}
+
+.form-step-1,
+.form-step-2 {
+    text-align: left;
+    margin-left: 33%;
+    width: 33%;
+}
+
+.form-step-3,
+.review {
+    text-align: left;
+}
+
+.form-step-3 .anticon-minus-circle-o,
+.form-step-3 .anticon-plus-circle {
+    font-size: 22px;
+}
+
+
+/* .form-step-3 .form-item {
+    
+} */
