@@ -188,6 +188,7 @@ export class Order extends React.Component {
 
     submit = () => {
         message.success('Processing complete!')
+        console.log(this.state.data)
     }
 
     stepButtons = () => {
