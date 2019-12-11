@@ -1,4 +1,4 @@
-# Dish Order Form
+# React Steps Form
 
 Simple dish ordering steps form using react
 
@@ -11,7 +11,7 @@ Simple dish ordering steps form using react
 
 ## Installation
 
-* `git clone git@github.com:symaster1995/zenport-order.git`
+* `git clone git@github.com:symaster1995/react-steps-form.git`
 * cd zenport-order
 * npm install
 * npm run dev
